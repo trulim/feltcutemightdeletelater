@@ -1,2 +1,2 @@
 # feltcutemightdeletelater
-website with focus on single 200-300 word non fiction essay for a job application
+website with focus on a single 200-300 word non fiction essay for a job application
